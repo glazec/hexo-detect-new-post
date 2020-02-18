@@ -45,3 +45,8 @@ Here the main content starts.
 ```
 
 Make sure your post links have the format `yourwebsiteurl/posts/abbrlink`. Here is an example `https:\www.inevitable.tech\posts\7a4bc632`.
+
+## Application
+You can compare `newPost.json` to determine whether the site has been updated.
+
+Here is an example of delivring notificaiton if website updates. https://github.com/glazec/web-push-notification
