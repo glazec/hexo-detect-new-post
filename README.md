@@ -1,4 +1,6 @@
 # hexo-detect-new-post
+** Please use [hexo-web-push-notification](https://github.com/glazec/hexo-web-push-notification) instead.
+
 This plugin generate `newPost.json` which contains the newest post's information.
 
 ## How it work
